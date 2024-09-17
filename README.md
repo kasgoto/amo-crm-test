@@ -2,6 +2,10 @@
 
 Технологии: NextJS, React, TypeScript, Shadcn, Tailwind, AmoCRM API
 
+## Демонстрация
+
+https://youtu.be/55nXO-K5ykg
+
 ## Локальный запуск
 
 - npm i
